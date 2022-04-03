@@ -36564,7 +36564,18 @@ a.u-link.u-text-hover-grey-90:hover {
 
 
 
+@media (max-width: 575px) {
+  .u-header .u-image-1 {
+    margin-top: 14px;
+    margin-left: -34px;
+  }
 
+  .u-header .u-social-icons-1 {
+    margin-top: 29px;
+    margin-bottom: 29px;
+    margin-right: auto;
+  }
+}
  .u-footer {
   background-image: none;
 }
